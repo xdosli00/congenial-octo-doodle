@@ -1,0 +1,6 @@
+What is on the MASTER branch is actually what is
+being released... if we want to develop for example
+a new version of something (yet we want to keep 
+the stable MASTER version up) we just make a new 
+branch and do all changes there without affecting 
+the MASTER branch
